@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisciampinir01ciam_0357.png"; bbox 0 0 2482 3742; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1152 890 1153 912">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1152 890 1153 912">
+     <span class='ocr_line' id='line_1_1' title="bbox 1152 890 1153 912; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1152 890 1153 912; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 835 480 1529 486">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 835 480 1529 486">
+     <span class='ocr_line' id='line_1_2' title="bbox 835 480 1529 486; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 835 480 1529 486; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 833 479 1529 489">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 833 479 1529 489">
+     <span class='ocr_line' id='line_1_3' title="bbox 833 479 1529 489; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 833 479 1529 489; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 675 1101 676 1117">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 675 1101 676 1117">
+     <span class='ocr_line' id='line_1_4' title="bbox 675 1101 676 1117; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 675 1101 676 1117; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 600 1182 712 1318">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 600 1182 712 1318">
+     <span class='ocr_line' id='line_1_5' title="bbox 600 1182 712 1318; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 600 1182 712 1318; x_wconf 44' lang='lat'><em>231122152..</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 569 368 1845 3300">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 569 368 1845 3300">
+     <span class='ocr_line' id='line_1_6' title="bbox 569 368 1845 3300; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 569 368 1845 3300; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
